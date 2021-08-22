@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppsCriJodoh</string>
+    <string name="namehome">Nyari Jodoh</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+
+    <string-array name="gender">
+        <item>LAKI-LAKI</item>
+        <item>PEREMPUAN</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
